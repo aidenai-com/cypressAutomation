@@ -38,7 +38,7 @@ describe('CSSLocators', () => {
 
         cy.get(".oxd-input[name='username']").type("Admin")
 
-    
+
 
 
     })
